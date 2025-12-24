@@ -131,14 +131,19 @@ I enjoy working on systems that solve real-world problems and am particularly in
         <br>Tensorflow
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg"
+        <img src="https://raw.githubusercontent.com/jayS202/jayS202/main/assets/langchain.svg"
              width="43" height="43" style="margin: 6px;" />
-        <br>OpenAI
+        <br>Langchain
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+        <img src="https://github.com/jayS202/jayS202/blob/main/assets/langgraph.svg"
              width="43" height="43" style="margin: 6px;" />
-        <br>Firebase
+        <br>Langgraph
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/jayS202/jayS202/main/assets/hf-logo.svg"
+             width="43" height="43" style="margin: 6px;" />
+        <br>HuggingFace
       </td>
     </tr>
   </table>
