@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-  
+
+  <h3 align="center"><strong>Learning, Building & Shipping Reliable Applications!</strong></h3>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=4000&pause=800&center=true&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Jayanth+Kumar+S+;Software+Developer%F0%9F%92%BB;Passionate+Backend+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI+Enthusiast%F0%9F%A4%96" alt="Typing SVG" /></a>
 
   
