@@ -151,3 +151,47 @@ I enjoy working on systems that solve real-world problems and am particularly in
 
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<!-- ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayS202&show_icons=true&locale=en&hide_border=true) -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=jayS202&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jayS202&show_icons=true&locale=en&layout=compact&hide_border=true)  -->
+
+</div>
+
+<div align="center">
+
+## 📈 Activity Graph
+[![Jayanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayS202&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28436553ee.gif" width="1200"> 
+
+
+<div align="center">
+  
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborating on exciting projects, or having thoughtful conversations about technology and innovation.
+
+**📧 Email**: [jksashtkar@gmail.com](mailto:jksashtkar@gmail.com)  
+**📱 Phone**: +91 9449460823 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-kumar-s-132812203) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayS202) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jkashtkar@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Progress over perfection — one commit at a time.
+
+*Thanks for visiting my profile! Don't forget to ⭐ some repositories if you find them interesting!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
