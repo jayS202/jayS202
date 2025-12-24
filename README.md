@@ -13,6 +13,136 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
+## 🚀 About Me
+
+I’m a **Software Engineer** with 3+ years of experience at **Capgemini**, specializing in backend development and enterprise-grade applications, with hands-on experience designing and developing full-stack solutions.
+
+I’ve worked on building and maintaining scalable systems, collaborating in Agile teams, and delivering reliable, business-critical software.
+
+I enjoy working on systems that solve real-world problems and am particularly interested in applying AI and machine learning to build smarter, scalable applications.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <h3>Programming Languages</h3>
+
+  <table align="center" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Python
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>C++
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>C
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Java
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>JavaScript
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>Frameworks & Libraries</h3>
+
+  <table align="center" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>FastAPI
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Django
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>DjangoREST
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>React
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>Cloud & Database</h3>
+
+  <table align="center" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Azure
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>GCP
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>AI Tools & Libraries</h3>
+
+  <table align="center" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Scikit Learn
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Tensorflow
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg"
+             width="64" height="64" style="margin: 6px;" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
