@@ -1,5 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Jayanth+Kumar+S+)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Jayanth+Kumar+S+" alt="Typing SVG" /></a>
+  <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jayS202&data=followers,repositories,stars,commits&hide_border=true)](https://github.com/jayS202) -->
 
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jayS202&data=followers,repositories,stars,commits&hide_border=true)](https://github.com/jayS202) -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanth-kumar-s-132812203) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayS202) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jksashtkar@gmail.com)
+
+</div>
+
+
 
 
