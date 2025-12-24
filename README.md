@@ -131,12 +131,12 @@ I enjoy working on systems that solve real-world problems and am particularly in
         <br>Tensorflow
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/jayS202/jayS202/main/assets/langchain.svg"
+        <img src="https://raw.githubusercontent.com/jayS202/jayS202/main/assets/langchain-color.svg"
              width="43" height="43" style="margin: 6px;" />
         <br>Langchain
       </td>
       <td align="center">
-        <img src="https://github.com/jayS202/jayS202/blob/main/assets/langgraph.svg"
+        <img src="https://github.com/jayS202/jayS202/blob/main/assets/langgraph-color.svg"
              width="43" height="43" style="margin: 6px;" />
         <br>Langgraph
       </td>
